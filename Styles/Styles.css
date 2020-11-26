@@ -1,0 +1,753 @@
+
+
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+}
+main{
+    background-color: darkseagreen;
+    padding-bottom: 5%;
+
+}
+
+
+.HigNav{
+    background-color: azure;
+    position: sticky;
+    overflow: hidden;
+    top: 0;
+    margin-top: -5px;
+
+}
+
+#mainNav a{
+    color: black;
+    text-align: center;
+    float: left;
+    padding: 20px;
+    text-decoration: none;
+    transition-duration: 0.3s;    
+}
+
+#mainNav a:hover{
+    transition-duration: 0.3s;
+    background-color:darkseagreen;
+}
+
+
+
+#mainHeader {
+    padding-left: 10px; 
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.bodytext{
+    text-align: left;
+    padding-left: 10px;
+}
+
+.bodytext1{
+    width :80%;
+    padding-left: 15px;
+    
+}
+.bodytext2{
+    width: 80%;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: large;
+    word-spacing: 5px;
+    line-height: 40px;
+    margin: 0%;
+    
+}
+   
+    
+ol{
+    margin: 0%;
+}
+
+
+.HMimg{
+    height: auto;
+    width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.HMimg2{
+    height: auto;
+    padding-right: 10%;
+    padding-left: 10%;
+    width: 80%;
+}
+
+.HMimg3{
+    height: auto;
+    padding-right: 10%;
+    padding-left: 10%;
+    width: 80%;
+}
+
+.HMimg4{
+    height: auto;
+    padding-right: 10%;
+    padding-left: 10%;
+    width: 80%;
+}
+
+.HMimg5{
+    height: auto;
+    width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.HMimg6{
+    height: auto;
+    padding-right: 10%;
+    padding-left: 10%;
+    width: 80%;
+}
+
+.HMimg7{
+    height: auto;
+    padding-right: 10%;
+    padding-left: 10%;
+    width: 80%;
+}
+
+.HMimg8{
+    height: auto;
+    padding-right: 10%;
+    padding-left: 10%;
+    width: 80%;
+}
+
+.HMimg9{
+    height: auto;
+    padding-right: 10%;
+    padding-left: 10%;
+    width: 80%;
+}
+
+.HMimg10{
+    height: auto;
+    padding-right: 10%;
+    padding-left: 10%;
+    width: 80%;
+}
+
+.HMimg11{
+    height: auto;
+    padding-right: 10%;
+    padding-left: 10%;
+    width: 80%;
+}
+
+.HMimg12{
+    float: left;
+    width: 20%;
+    padding-left: 12%;
+
+
+    
+
+}
+
+.f1{
+    width: 80%;
+    padding-left: 12%;
+    padding-top: 10%;
+
+}
+
+.f2{
+    padding-left: 12%;
+    padding-top: 8%;
+    width: fit-content;
+    font-size: larger;
+
+}
+
+
+
+table{
+    border: 2px solid black;
+}
+
+#table{
+
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+table td{
+    border: 2px solid black;  
+}
+
+.tcap{
+    text-align: center;
+
+}
+
+.Dtt{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.bodytext5{
+    text-decoration: underline;
+}
+
+#tf{
+    text-align: center;
+}
+
+.HigNav nav a:not(:last-child) {
+    display: none;
+}
+
+.HigNav nav a .a2{
+    float: right;
+    display: block;
+}
+
+.HigNav.responsive nav {
+    position: relative;
+}
+
+.HigNav.responsive nav .a2{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.HigNav.responsive nav a{
+    float: none;
+    display: block;
+    text-align: left;
+} 
+
+footer{
+    height: 400px;
+    background-color: darkgreen;
+    text-align: center;
+
+}
+
+.LowNav a{
+    display: grid;
+    text-decoration: none;
+    padding-bottom: 10px;
+    color: aliceblue;
+    text-align: center;
+    transition-duration: 0.3s;
+}
+
+.LowNav a:hover{
+    color: wheat;
+}
+
+.subf1{
+    color: white;
+
+    
+}
+
+footer div{
+    padding-top: 3%;
+}
+
+.cd1 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    border: 1px solid black;
+    
+  }
+
+#cd2{
+    padding-top: 10px;
+}  
+  
+  
+  .cd1 button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .cd1 button:hover {
+    opacity: 0.7;
+  }
+
+  .cd3{
+      padding-top: 20px;
+  }
+
+  .mp{
+    text-decoration: underline;
+    padding-left: 10px;
+}
+
+   .o1{
+       padding-left: 40px;
+   } 
+
+
+   .b2{
+       padding: 10px;
+       text-decoration: none;
+       padding: 10px;
+       
+       background-color: aqua;
+   }
+
+
+@media screen and (min-width:500px){
+
+
+    .HMimg {
+        width : 80%;
+        padding-left: 10%;
+        padding-right: 10%;
+        height: auto;
+    }
+
+    .HMimg2{
+        width: 60%;
+        height: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 20%;
+        border-radius: 8px;
+        
+        
+    }
+    .HMimg3{
+        width: 60%;
+        height: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 20%;
+        border-radius: 8px;
+        
+    }
+    .HMimg4{
+        width: 60%;
+        height: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 20%;
+        border-radius: 8px;
+        
+    }
+
+    .HMimg5{
+        height: auto;
+        width: 50%;
+        padding-left: 25%;
+        padding-right: 25%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    
+    .HMimg6{
+        height: auto;
+        width: 50%;
+        padding-left: 25%;
+        padding-right: 25%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    
+    .HMimg7{
+        height: auto;
+        width: 50%;
+        padding-left: 25%;
+        padding-right: 25%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    
+    .HMimg8{
+        height: auto;
+        width: 50%;
+        padding-left: 25%;
+        padding-right: 25%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+
+    }
+
+    .HMimg9{
+        height: auto;
+        width: 50%;
+        padding-left: 25%;
+        padding-right: 25%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    
+    .HMimg10{
+        height: auto;
+        width: 50%;
+        padding-left: 25%;
+        padding-right: 25%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    
+    .HMimg11{
+        height: auto;
+        width: 50%;
+        padding-left: 25%;
+        padding-right: 25%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+
+    .HMimg12{
+        float: left;
+        width: 8%;
+        padding-left: 12%;
+
+
+        
+    
+    }
+   
+    
+    .f1{
+        width: 80%;
+        display: inline-block;
+        overflow: auto;
+        padding-left: 12%;
+        padding-top: 10px;
+    
+    }
+
+    footer{
+        height: 400px;
+        background-color: darkgreen;
+        text-align: center;
+    
+    }
+    
+    .LowNav a{
+        display: grid;
+        text-decoration: none;
+        padding-bottom: 10px;
+        color: aliceblue;
+        text-align: center;
+        transition-duration: 0.3s;
+    }
+    
+    .LowNav a:hover{
+        color: wheat;
+    }
+    
+    .subf1{
+        color: white;
+        padding-top: 0%;
+    
+        
+    }
+    
+    footer div{
+        padding-top: 3%;
+    }
+
+    .mainf{
+        padding-top: 0%;
+
+    }
+
+    .s1{
+        width: 50%;
+    }
+
+    .cd1 {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        max-width: 300px;
+        margin: auto;
+        text-align: center;
+        background-color: white;
+        border: 1px solid black;
+        
+      }
+
+    #cd2{
+        padding-top: 10px;
+    }  
+      
+      
+      .cd1 button {
+        border: none;
+        outline: 0;
+        padding: 12px;
+        color: white;
+        background-color: #000;
+        text-align: center;
+        cursor: pointer;
+        width: 100%;
+        font-size: 18px;
+      }
+      
+      .cd1 button:hover {
+        opacity: 0.7;
+      }
+
+      .cd0{
+        padding-left: 30%;
+      }
+
+
+      
+      .cd1 {
+        float: left;
+        width: 33.33%;
+        padding: 5px;
+        
+
+      }
+
+      .cd0::after {
+        content: "";
+        clear: both;
+        display: table;
+        
+      }
+      
+      .cd3{
+        padding-left: 40%;
+        padding-right: 10%;
+      }
+
+}
+
+@media screen and (min-width:900px){
+
+
+    .HMimg {
+        width : 70%;
+        padding-left: 15%;
+        padding-right: 15%;
+        height: 600px;
+    }
+
+    .HMimg2{
+        width : 30%;
+        padding-left: 35%;
+        padding-right: 35%;
+        height: auto;
+        
+        
+    }
+    .HMimg3{
+        width : 30%;
+        padding-left: 35%;
+        padding-right: 35%;
+        height: auto;
+        
+    }
+    .HMimg4{
+        width : 30%;
+        padding-left: 35%;
+        padding-right: 35%;
+        height: auto;
+        
+    }
+
+    .HMimg5{
+        width : 30%;
+        padding-left: 35%;
+        padding-right: 35%;
+        height: auto;
+    }
+    
+    .HMimg6{
+        width : 30%;
+        padding-left: 35%;
+        padding-right: 35%;
+        height: auto;
+    }
+    
+    .HMimg7{
+        width : 30%;
+        padding-left: 35%;
+        padding-right: 35%;
+        height: auto;
+    }
+    
+    .HMimg8{
+        width : 30%;
+        padding-left: 35%;
+        padding-right: 35%;
+        height: auto;
+
+    }
+
+    .HMimg9{
+        width : 20%;
+        padding-left: 40%;
+        padding-right: 40%;
+        height: auto;
+    }
+    
+    .HMimg10{
+        width : 20%;
+        padding-left: 40%;
+        padding-right: 40%;
+        height: auto;
+    }
+    
+    .HMimg11{
+        width : 20%;
+        padding-left: 40%;
+        padding-right: 40%;
+        height: auto;
+    }
+
+
+    .HMimg12{
+        float: left;
+        width: 8%;
+        padding-left: 12%;
+
+
+        
+    
+    }
+   
+    
+    .f1{
+        width: 80%;
+        display: inline-block;
+        overflow: auto;
+        padding-left: 12%;
+        padding-top: 10px;
+    
+    }
+
+    footer{
+        height: 400px;
+        background-color: darkgreen;
+        text-align: center;
+    
+    }
+    
+    .LowNav a{
+        display: grid;
+        text-decoration: none;
+        padding-bottom: 10px;
+        color: aliceblue;
+        text-align: center;
+        transition-duration: 0.3s;
+    }
+    
+    .LowNav a:hover{
+        color: wheat;
+    }
+    
+    .subf1{
+        color: white;
+        padding-top: 0%;
+    
+        
+    }
+    
+    footer div{
+        padding-top: 3%;
+    }
+
+    .mainf{
+        padding-top: 0%;
+
+    }
+
+    .cd1 {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        max-width: 350px;
+        margin: auto;
+        text-align: center;
+        background-color: white;
+        border: 1px solid black;
+        
+      }
+
+    #cd2{
+        padding-top: 10px;
+    }  
+      
+      
+      .cd1 button {
+        border: none;
+        outline: 0;
+        padding: 12px;
+        color: white;
+        background-color: #000;
+        text-align: center;
+        cursor: pointer;
+        width: 100%;
+        font-size: 18px;
+      }
+      
+      .cd1 button:hover {
+        opacity: 0.7;
+      }
+
+      .cd0{
+        padding-left: 30%;
+      }
+
+
+      
+      .cd1 {
+        float: left;
+        width: 33.33%;
+        padding: 5px;
+        
+
+      }
+
+      .cd0::after {
+        content: "";
+        clear: both;
+        display: table;
+        
+      }
+      
+      .cd3{
+        padding-left: 40%;
+        padding-right: 10%;
+      }
+
+      
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
